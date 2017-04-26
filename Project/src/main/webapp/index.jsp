@@ -32,7 +32,7 @@
    						<ul class="dropdown-menu">
       						<li><a href="#">Pizza's</a></li>
 							<li><a href="#">Pasta</a></li>
-							<li><a href="#">Bread</a></li>
+							<li><a href="#">Verdure in pinzimonio</a></li>
 							<li><a href="#">Bruschetta</a></li>
 					    </ul>
 					    </li>
@@ -56,9 +56,13 @@
 					    </li>
 					<li>
 						<li><a href="#">About Us<span class="sr-only">go to About us page</span></a></li>
-					</li>					
+					</li>						
 				</ul>
-			</div>
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="Login.jsp">Sign-out<span class="sr-only">go to logout page.</span></a></li>	
+					</ul>
+				</div>
+				
 		</nav>
 		</body>
 </html>
